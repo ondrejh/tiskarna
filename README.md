@@ -19,7 +19,7 @@ Pro neznalého začátečníka to skutečně není lehká volba. Zkusím tedy š
 ## Build log
 
 ### Pondělí 19.6.
-Procházím DXko a podobné "číňany", co se dá koupit. Zatím objednávám jen řídící desku - je to trochu předćasné, ale mám strach, že byh jí příště nenašel. Link přidám později (TODO)
+Procházím DXko a podobné "číňany", co se dá koupit. Zatím objednávám jen řídící desku - je to trochu předčasné, ale mám strach, že byh jí příště nenašel. Link přidám později (TODO)
 
 ### Úterý 20.6.
 V železářství kupuju 7 metrových závitových tyčí M8 a matky s vějířovými podložkami - cca 200kč. Hlazenky nemají (zatím). Na ložiska se zeptám v práci - update (21.6.): prý je mají v kšeftu se zahradní technikou.
