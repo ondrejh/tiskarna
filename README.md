@@ -25,7 +25,7 @@ Procházím DXko a podobné "číňany", co se dá koupit. Zatím objednávám j
 V železářství kupuju 7 metrových závitových tyčí M8 a matky s vějířovými podložkami - cca 200kč. Hlazenky nemají (zatím). Na ložiska se zeptám v práci - update (21.6.): prý je mají v kšeftu se zahradní technikou.
 
 ### Středa 21.6.
-Čeká mě první "na zkoušku" vytisknutý díl. Jde o držák motoru osy Z - patří do konstrukce rámu. Vypadá dobře, nemůžu se dočkat na další.
+Čeká mě první "na zkoušku" vytisknutý díl. Jde o držák motoru osy Z - patří do [konstrukce rámu](https://reprappro.com/documentation/mendel-tricolour/frame-assembly/). Vypadá dobře, nemůžu se dočkat na další.
 
 ![z_motor_holder_printed](/img/z_motor_holder_printed.jpg)
 
