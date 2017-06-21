@@ -27,6 +27,8 @@ V železářství kupuju 7 metrových závitových tyčí M8 a matky s vějířo
 ### Středa 21.6.
 Čeká mě první "na zkoušku" vytisknutý díl. Jde o držák motoru osy Z - patří do konstrukce rámu. Vypadá dobře, nemůžu se dočkat na další.
 
+![z_motor_holder_printed](/img/z_motor_holder_printed.jpg)
+
 Znovu procházím návod a zjišťuju, že závitových tyčí M8 bude potřeba asi jen 6. Ta sedmá je M5 pohonu osy.
 
 pokračování příště ...
