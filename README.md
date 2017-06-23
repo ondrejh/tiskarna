@@ -36,7 +36,7 @@ Znovu procházím návod a zjišťuju, že závitových tyčí M8 bude potřeba 
 
 ![thread rods, nuts and lock washers](/img/thread_rods.jpg)
 
-Zdá se, že hlazenky mi zajistí Brašule. Dokonce na míru. A ložiska asi taky (update - ložiska ne, takový nemají - jako u nás). Nechápe, proč jsem to neřekl hned. Závitoviny mají taky kupu. Hold, líná huba holý neštěstí :-)
+Zdá se, že hlazenky mi zajistí Brašule. Dokonce na míru. A ložiska asi taky (update - ložiska ne, takový nemají - jako u nás). Nechápe, proč jsem to neřekl hned. Závitoviny mají taky kupu. Hold, líná huba holý neštěstí :smile:
 
 ### Pátek 23.6.
 Tištěné díly framu jsou hotové (asi protekce, nebo co). Ložiska vezmu cestou z práce v tom [kšeftu se sekačkama](www.agrico-sro.cz). Hlazenky budou večer u Brašuleho. Můžu skládat.
@@ -56,5 +56,9 @@ Příprava příčníků. V tomhle návodu nic moc. Je tam sice textové schéma
 Tak, A došly mi matky a podložky. Nějak jsem si špatně prošel návod a špatně jsem to sečetl. Myslel jsem, že budu potřebovat něco málo přez 50ks, tak jsem vzal 60. A jsou pryč a ještě zdaleka nejsem u konce. Ach jo ... Dnes už je nikde nekoupím. Takže pro dnešek konec.
 
 ![cant continue .. out of nuts](/img/out_of_nuts.jpg)
+
+Jo, abych nezapomněl. Ty hlazenky. Takhle já to s ním mám. Když chci něco po dvou kusech, dodá toho dvě sady. Asi se mu s jednou nechtělo dělat. Díky Brašule :smile:
+
+![smooth rods - two sets](/img/smooth_rods.jpg)
 
 pokračování příště ...
