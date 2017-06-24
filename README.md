@@ -61,4 +61,21 @@ Jo, abych nezapomněl. Ty hlazenky. Takhle já to s ním mám. Když chci něco 
 
 ![smooth rods - two sets](/img/smooth_rods.jpg)
 
+### Sobota 23.6.
+Ráno jsem dokoupil potřebný spojovací materiál. Sehnal jsem dokonce i MDF desky - měl jsem obavu, že je ani nebudou mít. Ale o tom později.
+
+Teď mám hotový a seřízený rám. V tomto bodě je návod trochu nejednoznačný a přeházený, ale v principu to funguje. Nevím jestli jsem měl takové štěstí, nebo jestli jsem tak dobře měřil, ale všechno sedí. Osa Y je vodorovná a souosá (test se sklem) a osa Z je kolmá, souosá a seřízená na střed osy Y (je to hlavně práce s úhelnicí). Chce to od začátku stavět na klalitní vodorovné podložce - třeba silna kuchyňská deska je OK.
+
+![Y axis alignment](/img/frame_align.jpg)
+
+Dodávám ještě přehled použitého nářadí: Sklo, nebo jiná plochá tuhá věc na kontrolu osy Y. Kvalitní úhelnice. Laťky - těmi jsem vytvořil spojnici mezi hlazenkami osy Z, abych ji ustavil na střed osy Y - v návodu se používa provázek, nebo gumička - to se mi moc nezdálo. Nějaký metr. Fixa - ta se pořád válí na stole. No a 13ka klíč - asi na ďoubání v nose, nééé :smile:
+
+![Frame tools](/img/frame_tools.jpg)
+
+No a zpátky k těm MDFkám. Mají je v Trutnově v [DřevoTrust](http://www.drevotrust.cz/cz/). Ochotně je i nařežou, což je potřeba, protože prodávají jen po celých deskách. Cca 2x3m. No, vzhledem k tomu, že budu potřebovat tak A4 (odhad), tak mi asi něco zbyde. Alespoň se mi nestane to co s matkami.
+
+![MDF shopping](/img/shoping_for_mdf.jpg)
+
+Teď začne skutečné shánění. CNC laser, miniaturní a lineární ložiska, řemínek a řemeničky (GT2) aj. Počítám, že už to tak hladce nepůjde. Ale o to ani nešlo ...
+
 pokračování příště ...
