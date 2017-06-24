@@ -74,7 +74,7 @@ Ráno jsem dokoupil potřebný spojovací materiál. Sehnal jsem dokonce i MDF d
 
 Teď mám hotový a seřízený rám. V tomto bodě je návod trochu nejednoznačný a přeházený, ale v principu to funguje. Nevím jestli jsem měl takové štěstí, nebo jestli jsem tak dobře měřil, ale všechno sedí. Osa Y je vodorovná a souosá (test se sklem) a osa Z je kolmá, souosá a seřízená na střed osy Y (je to hlavně práce s úhelnicí). Chce to od začátku stavět na klalitní vodorovné podložce - třeba silna kuchyňská deska je OK.
 
-![Y axis adjustment](/img/frame_aldjust.jpg)
+![Y axis adjustment](/img/frame_adjust.jpg)
 
 Dodávám ještě přehled použitého nářadí: Sklo, nebo jiná plochá tuhá věc na kontrolu osy Y. Kvalitní úhelnice. Laťky - těmi jsem vytvořil spojnici mezi hlazenkami osy Z, abych ji ustavil na střed osy Y - v návodu se používa provázek, nebo gumička - to se mi moc nezdálo. Z jiného kusu stené laťky jsem si vyrobil takové měrky "templaty". V kitu by měl být přiložený takový vypálený hřebínek, ale já ho samozřejmě nemám. Možná si ho taky nechám vypálit - pro zajímavost. Nějaký metr. Fixa - ta se pořád válí na stole. No a 13ka klíč - asi na ďoubání v nose, nééé :smile:
 
