@@ -16,6 +16,14 @@ Na druhý pohled se mi zdá lepší [reprap huxley](http://reprap.org/wiki/Huxle
 
 Pro neznalého začátečníka to skutečně není lehká volba. Zkusím tedy štěstí a dám první slušný návod na typ Mendel. Asi [reprappro.com/documentation/mendel-tricolour](https://reprappro.com/documentation/mendel-tricolour/). Na stránkách prodávali i kit, ale ten už k sehnání není. Proč asi? Nevím. Ale zkusím to.
 
+## Rozpočet
+* Závitové tyče, matky, podložky .. 196Kč
+* Ložiska 608ZZ .. 36Kč
+* Matky, podložky (druhé kolo) .. 132Kč (95Kč jsou těsnící podložky - ty tam nepatří)
+* MDF desky .. 1034 Kč (mám toho přibližně 100x víc než potřebuju)
+
+* Celkem (zatím) .. 1398 Kč
+
 ## Build log
 
 ### Pondělí 19.6.
@@ -66,13 +74,13 @@ Ráno jsem dokoupil potřebný spojovací materiál. Sehnal jsem dokonce i MDF d
 
 Teď mám hotový a seřízený rám. V tomto bodě je návod trochu nejednoznačný a přeházený, ale v principu to funguje. Nevím jestli jsem měl takové štěstí, nebo jestli jsem tak dobře měřil, ale všechno sedí. Osa Y je vodorovná a souosá (test se sklem) a osa Z je kolmá, souosá a seřízená na střed osy Y (je to hlavně práce s úhelnicí). Chce to od začátku stavět na klalitní vodorovné podložce - třeba silna kuchyňská deska je OK.
 
-![Y axis alignment](/img/frame_align.jpg)
+![Y axis adjustment](/img/frame_aldjust.jpg)
 
-Dodávám ještě přehled použitého nářadí: Sklo, nebo jiná plochá tuhá věc na kontrolu osy Y. Kvalitní úhelnice. Laťky - těmi jsem vytvořil spojnici mezi hlazenkami osy Z, abych ji ustavil na střed osy Y - v návodu se používa provázek, nebo gumička - to se mi moc nezdálo. Nějaký metr. Fixa - ta se pořád válí na stole. No a 13ka klíč - asi na ďoubání v nose, nééé :smile:
+Dodávám ještě přehled použitého nářadí: Sklo, nebo jiná plochá tuhá věc na kontrolu osy Y. Kvalitní úhelnice. Laťky - těmi jsem vytvořil spojnici mezi hlazenkami osy Z, abych ji ustavil na střed osy Y - v návodu se používa provázek, nebo gumička - to se mi moc nezdálo. Z jiného kusu stené laťky jsem si vyrobil takové měrky "templaty". V kitu by měl být přiložený takový vypálený hřebínek, ale já ho samozřejmě nemám. Možná si ho taky nechám vypálit - pro zajímavost. Nějaký metr. Fixa - ta se pořád válí na stole. No a 13ka klíč - asi na ďoubání v nose, nééé :smile:
 
 ![Frame tools](/img/frame_tools.jpg)
 
-No a zpátky k těm MDFkám. Mají je v Trutnově v [DřevoTrust](http://www.drevotrust.cz/cz/). Ochotně je i nařežou, což je potřeba, protože prodávají jen po celých deskách. Cca 2x3m. No, vzhledem k tomu, že budu potřebovat tak A4 (odhad), tak mi asi něco zbyde. Alespoň se mi nestane to co s matkami.
+Zpátky k těm MDFkám. Mají je v Trutnově v [DřevoTrust](http://www.drevotrust.cz/cz/). Ochotně je i nařežou, což je potřeba, protože prodávají jen po celých deskách. Cca 2x3m. No, vzhledem k tomu, že budu potřebovat tak A4 (odhad), tak mi asi něco zbyde. Alespoň se mi nestane to co s matkami.
 
 ![MDF shopping](/img/shoping_for_mdf.jpg)
 
