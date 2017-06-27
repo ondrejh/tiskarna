@@ -86,4 +86,14 @@ Zpátky k těm MDFkám. Mají je v Trutnově v [DřevoTrust](http://www.drevotru
 
 Teď začne skutečné shánění. CNC laser, miniaturní a lineární ložiska, řemínek a řemeničky (GT2) aj. Počítám, že už to tak hladce nepůjde. Ale o to ani nešlo ...
 
+### Pondělí 25.6.
+Dnes jsem se domluvil se švárou, že mi vypálí díly z MDF desek. Maximální formát, který se vejde do jeho laseru je A3plus. Třetinu desek jsem tedy podle toho připravil.
+
+![MDF formating](/img/mdf_formating.jpg)
+![MDF_a3plus](/img/mdf_a3plus.jpg)
+
+Teď mám tedy po 12ti kusech polotovaru od každé tlouštky a ještě dvě třetiny materiálu na půdě.
+
+Ještě musím připravit podklady. V originálech na githubu se bohužel počítá s větší plochou laseru.
+
 pokračování příště ...
