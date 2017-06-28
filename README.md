@@ -96,4 +96,8 @@ Teď mám tedy po 12ti kusech polotovaru od každé tlouštky a ještě dvě tř
 
 Ještě musím připravit podklady. V originálech na githubu se bohužel počítá s větší plochou laseru.
 
+### Středa 27.6.
+
+Dnes jsem připravil podklady pro laserování. Zítra ráno jdeme na to.
+
 pokračování příště ...
