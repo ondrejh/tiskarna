@@ -69,7 +69,7 @@ Jo, abych nezapomněl. Ty hlazenky. Takhle já to s ním mám. Když chci něco 
 
 ![smooth rods - two sets](/img/smooth_rods.jpg)
 
-### Sobota 23.6.
+### Sobota 24.6.
 Ráno jsem dokoupil potřebný spojovací materiál. Sehnal jsem dokonce i MDF desky - měl jsem obavu, že je ani nebudou mít. Ale o tom později.
 
 Teď mám hotový a seřízený rám. V tomto bodě je návod trochu nejednoznačný a přeházený, ale v principu to funguje. Nevím jestli jsem měl takové štěstí, nebo jestli jsem tak dobře měřil, ale všechno sedí. Osa Y je vodorovná a souosá (test se sklem) a osa Z je kolmá, souosá a seřízená na střed osy Y (je to hlavně práce s úhelnicí). Chce to od začátku stavět na klalitní vodorovné podložce - třeba silna kuchyňská deska je OK.
@@ -86,7 +86,7 @@ Zpátky k těm MDFkám. Mají je v Trutnově v [DřevoTrust](http://www.drevotru
 
 Teď začne skutečné shánění. CNC laser, miniaturní a lineární ložiska, řemínek a řemeničky (GT2) aj. Počítám, že už to tak hladce nepůjde. Ale o to ani nešlo ...
 
-### Pondělí 25.6.
+### Pondělí 26.6.
 Dnes jsem se domluvil se švárou, že mi vypálí díly z MDF desek. Maximální formát, který se vejde do jeho laseru je A3plus. Třetinu desek jsem tedy podle toho připravil.
 
 ![MDF formating](/img/mdf_formating.jpg)
@@ -96,12 +96,25 @@ Teď mám tedy po 12ti kusech polotovaru od každé tlouštky a ještě dvě tř
 
 Ještě musím připravit podklady. V originálech na githubu se bohužel počítá s větší plochou laseru.
 
-### Středa 27.6.
+### Středa 28.6.
 Dnes jsem připravil podklady pro laserování. Zítra ráno jdeme na to.
 
-### Čtvrtek 28.6.
+### Čtvrtek 29.6.
 Díly jsou vypálené. Nešlo to zas tak hladce, ale dobrá zpráva je, že to jde i z DXF a propálí to i tu 6mm desku (ale na dvakrát). Cesta je ale prošlápnutá - příště to půjde snáz. Díky [šváro](http://www.razitkanachod.cz/)!
 
 ![Lasercut parts](/img/lasercut_parts.jpg)
+
+Do tisku jdou díly na osu Y.
+
+### Pátek 30.6.
+Díly jsou vytisknuté, ale ty složitější nejsou ještě vylouhované. No nevadí, stejně nemám ložiska ani řemínek.
+
+![Printed parts Y axis - some of them](/img/printed_miniparts_y_axis.jpg)
+
+### Sobota 1.7.
+Nějak jsem to nevydržel a sestavil jsem si alespoň držák motoru. I když bez mikro-ložisek a bez řemeničky.
+
+![Y motor mount parts (no bearings)](/img/y_motor_mount_parts.jpg)
+![Y motor mount assembled (no bearings and puley)](/img/y_motor_mount_assembled_nearly.jpg)
 
 pokračování příště ...
