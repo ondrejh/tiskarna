@@ -97,7 +97,11 @@ Teď mám tedy po 12ti kusech polotovaru od každé tlouštky a ještě dvě tř
 Ještě musím připravit podklady. V originálech na githubu se bohužel počítá s větší plochou laseru.
 
 ### Středa 27.6.
-
 Dnes jsem připravil podklady pro laserování. Zítra ráno jdeme na to.
+
+### Čtvrtek 28.6.
+Díly jsou vypálené. Nešlo to zas tak hladce, ale dobrá zpráva je, že to jde i z DXF a propálí to i tu 6mm desku (ale na dvakrát). Cesta je ale prošlápnutá - příště to půjde snáz. Díky [šváro](http://www.razitkanachod.cz/)!
+
+![Lasercut parts](/img/lasercut_parts.jpg)
 
 pokračování příště ...
