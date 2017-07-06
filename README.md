@@ -117,4 +117,25 @@ Nějak jsem to nevydržel a sestavil jsem si alespoň držák motoru. I když be
 ![Y motor mount parts (no bearings)](/img/y_motor_mount_parts.jpg)
 ![Y motor mount assembled (no bearings and puley)](/img/y_motor_mount_assembled_nearly.jpg)
 
+### Pondělí 3.7.
+Dostal jsem "důkladně" vylouhované zbylé tištěné díly osy Y. Zatím ale stále nemám ložiska.
+
+![Printed parts Y axis - the rest of them](/img/printed_parts_y_therest.jpg)
+
+### Úterý 4.7.
+Alespoň nasladko to sestavím...
+
+![Frog parts - no bearings](/img/yaxis_parts_nobearings.jpg)
+
+Taková drobnost: Montážní díry d5mm s osazením pro matku v držáku "žáby" jsou zarostlé tenkou šlupkou a musejí se odvrtat. Kluci v práci tvrdí, že to je chyba v ".STL". Odvrtat to jde snadno a strukturu to nenaruší.
+![Frog holder drilling](/img/frog_holder_drilling.jpg)
+
+Druhá poznámka: Jsou předepsané šrouby M3x25mm s imbusovou hlavou. Těch 25mm to je HOODNĚ velká rezerva. Řekl bych že 20mm by bohatě stačilo. Navíc né v každém železářství mají pojistné matky M3 - to jsou opravdu blechy - takže zatím dávám normální (mám jich kupu).
+![Frog - long screws](/img/frog_long_screws.jpg)
+
+No ... zatím asi takhle:
+![Y axis no bearings](/img/yaxis_no_bearings.jpg)
+
+Side jsou ložiska a řemínky už nějaký týden na cestě z Číny, ale asi si je objednám někde u nás. Prostě se mi nechce čekat.
+
 pokračování příště ...
