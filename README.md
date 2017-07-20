@@ -150,7 +150,7 @@ Přišly díly z Číny. Ložiska LM8UU, ložiska 623, řemínek, řemeničky a 
 Nemám moc čas, tak alespoň na večer (v noci) skládám osu Y - doplňuju o ložiska a řemen. Mám trochu pocit, že jsem ho přepnul. Uvidíme až se to bude mět hýbat. Řemínku jsem koupil 10m, ale přesto jsem ho chtěl šetřit - bude se hodit. Takže jsem musel podle návodu po připevnění první svorky protahovat celou délku všemi průvlaky na tiskárně. Připadal jsem si, jako když se snažím namotat sežvýkanou videokazetu (pro pamětníky).
 ![Y axis belt and bearings](/img/y_axis_belt.jpg)
 
-Ale jezdí to pěkně. Už se těším až to zkusím rozhýbat. Škoda, že nemám víc času.
-
+Ale jezdí to pěkně. Už se těším až to zkusím rozhýbat. Škoda, že nemám víc času. Jo, mimochodem. Dnes přišel ještě jeden balík - heatbed - no ten si ještě počká.
+![Heatbed package](/img/heatbed.jpg)
 
 pokračování příště ...
