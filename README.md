@@ -136,6 +136,12 @@ Druhá poznámka: Jsou předepsané šrouby M3x25mm s imbusovou hlavou. Těch 25
 No ... zatím asi takhle:
 ![Y axis no bearings](/img/yaxis_no_bearings.jpg)
 
-Side jsou ložiska a řemínky už nějaký týden na cestě z Číny, ale asi si je objednám někde u nás. Prostě se mi nechce čekat.
+Sice jsou ložiska a řemínky už nějaký týden na cestě z Číny, ale asi si je objednám někde u nás. Prostě se mi nechce čekat.
+
+### Čtvrtek 13.7.
+Ložiska, řemínky, řemeničky, řídící deska a dokonce i headbed jsou stále na cestě. Nechal jsem si zatím vytisknout díly na osu X a nakrátit hlazenky. Bohužel došel obyč materiál, takže jsou z nerezi. Jsem zvědav co na to budou říkat ložiska. Nevím jak se mi mohlo stát, že jsem na tyhle tyčky posledně zapomněl.
+![X axis printed parts and rods](/img/x_axis_printed_parts_and_rods.jpg)
+
+
 
 pokračování příště ...
