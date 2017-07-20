@@ -142,6 +142,15 @@ Sice jsou ložiska a řemínky už nějaký týden na cestě z Číny, ale asi s
 Ložiska, řemínky, řemeničky, řídící deska a dokonce i headbed jsou stále na cestě. Nechal jsem si zatím vytisknout díly na osu X a nakrátit hlazenky. Bohužel došel obyč materiál, takže jsou z nerezi. Jsem zvědav co na to budou říkat ložiska. Nevím jak se mi mohlo stát, že jsem na tyhle tyčky posledně zapomněl.
 ![X axis printed parts and rods](/img/x_axis_printed_parts_and_rods.jpg)
 
+### Úterý 18.7.
+Přišly díly z Číny. Ložiska LM8UU, ložiska 623, řemínek, řemeničky a řídící deska.
+![Parts from China](/img/china_parts.jpg)
+
+### Středa 19.7.
+Nemám moc čas, tak alespoň na večer (v noci) skládám osu Y - doplňuju o ložiska a řemen. Mám trochu pocit, že jsem ho přepnul. Uvidíme až se to bude mět hýbat. Řemínku jsem koupil 10m, ale přesto jsem ho chtěl šetřit - bude se hodit. Takže jsem musel podle návodu po připevnění první svorky protahovat celou délku všemi průvlaky na tiskárně. Připadal jsem si, jako když se snažím namotat sežvýkanou videokazetu (pro pamětníky).
+![Y axis belt and bearings](/img/y_axis_belt.jpg)
+
+Ale jezdí to pěkně. Už se těším až to zkusím rozhýbat. Škoda, že nemám víc času.
 
 
 pokračování příště ...
