@@ -22,7 +22,14 @@ Pro neznalého začátečníka to skutečně není lehká volba. Zkusím tedy š
 * Matky, podložky (druhé kolo) .. 132Kč (95Kč jsou těsnící podložky - ty tam nepatří)
 * MDF desky .. 1034 Kč (mám toho přibližně 100x víc než potřebuju)
 
-* Celkem (zatím) .. 1398 Kč
+* Ložiska 623ZZ 30ks (Aliexpress) .. 3.00$
+* Ložiska LM8UU 24ks (Aliexpress) .. 12.00$
+* Řemínek GT2 6mm 10m (Aliexpress) .. 7.99$
+* Řemenička GT2 16zubů 5ks (Aliexpress) .. 3.30$
+* Heatbed MK2B 1ks (Aliexpress) .. 8.37$
+* Řídící deska Melzi 2.0 1ks (DealExtreme) .. 26.11$
+
+* Celkem (zatím) .. 1398 Kč, 55.77$ (1264 Kč)
 
 ## Build log
 
@@ -151,6 +158,7 @@ Nemám moc čas, tak alespoň na večer (v noci) skládám osu Y - doplňuju o l
 ![Y axis belt and bearings](/img/y_axis_belt.jpg)
 
 Ale jezdí to pěkně. Už se těším až to zkusím rozhýbat. Škoda, že nemám víc času. Jo, mimochodem. Dnes přišel ještě jeden balík - heatbed - no ten si ještě počká.
+
 ![Heatbed package](/img/heatbed.jpg)
 
 pokračování příště ...
