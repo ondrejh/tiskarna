@@ -157,8 +157,15 @@ Přišly díly z Číny. Ložiska LM8UU, ložiska 623, řemínek, řemeničky a 
 Nemám moc čas, tak alespoň na večer (v noci) skládám osu Y - doplňuju o ložiska a řemen. Mám trochu pocit, že jsem ho přepnul. Uvidíme až se to bude mět hýbat. Řemínku jsem koupil 10m, ale přesto jsem ho chtěl šetřit - bude se hodit. Takže jsem musel podle návodu po připevnění první svorky protahovat celou délku všemi průvlaky na tiskárně. Připadal jsem si, jako když se snažím namotat sežvýkanou videokazetu (pro pamětníky).
 ![Y axis belt and bearings](/img/y_axis_belt.jpg)
 
-Ale jezdí to pěkně. Už se těším až to zkusím rozhýbat. Škoda, že nemám víc času. Jo, mimochodem. Dnes přišel ještě jeden balík - heatbed - no ten si ještě počká.
+Ale jezdí to pěkně. Tím je hotová [osa Y](https://reprappro.com/documentation/mendel-tricolour/y-axis-assembly/) - tedy kromě koncáku. Už se těším až to zkusím rozhýbat. Škoda, že nemám víc času. Jo, mimochodem. Dnes přišel ještě jeden balík - heatbed - no ten si ještě počká.
 
 ![Heatbed package](/img/heatbed.jpg)
+
+### Pondělí 24.7.
+Poskládal jsem osu X. Chybí mi jen koncák - stejně jako u osy Y - a budu mít hotový [další krok](https://reprappro.com/documentation/mendel-tricolour/x-axis-assembly/).
+
+![X axis assembled](/img/x_axis_assembled.jpg)
+
+Ty koncáky určitě seženu. Horší ale bude sehnat futýrka na osu Z. Vážně nevím, kde to koupit. Asi zkusím přemluvit bráchu, aby mě je vystrouhnul z mosazi.
 
 pokračování příště ...
