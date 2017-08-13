@@ -168,4 +168,7 @@ Poskládal jsem osu X. Chybí mi jen koncák - stejně jako u osy Y - a budu mí
 
 Ty koncáky určitě seženu. Horší ale bude sehnat futýrka na osu Z. Vážně nevím, kde to koupit. Asi zkusím přemluvit bráchu, aby mě je vystrouhnul z mosazi.
 
+### Neděle 13.8.
+Před dovolenou mi kluci vytiskli spony na osu Z, sehnal jsem nějaké pružinky a šrouby co jsem ještě neměl a dokonce jsem přez dealera Igusu v práci sehnal i ty futýrka (doplnit typ). Abych se nenudil. Teď mám po dovolené a ani sem na to nesáhnul ... klasika. Snad večer.
+
 pokračování příště ...
